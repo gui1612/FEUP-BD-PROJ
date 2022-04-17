@@ -4,6 +4,8 @@ Group project for the BD course unit at FEUP.
 
 The objective of the project was to create a database to support an app for students to keep track of their classes, activities, etc. and to overall help students' academic life. 
 
+This project was made with [Mariana Lobao](https://github.com/marineve17) and [Andre Lima](https://github.com/limwa).
+
 ## Unit info
 
 * **Name**: Bases de Dados (Databases)
